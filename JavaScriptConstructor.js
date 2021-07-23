@@ -1,4 +1,6 @@
 // In JavaScript, object constructors are impotant
+// A constructor is a function that creates an instance of a class which is typically called an “object
+// The purpose of a constructor is to create an object and set values if there are any object properties present
 
 function Elizabeth (name, profession, age, siblings, education){
     // In this case, Elizabeth forms the Object Constructor
